@@ -1,5 +1,9 @@
 # ProteinNet
 ProteinNet: 蛋白质二级结构预测
+### 依赖安装：
+torch==1.5.0
+torvision==0.6.0
+pytorch-lightning==0.7
 ### 模型：
 model.png.pdf
 ### 数据：
